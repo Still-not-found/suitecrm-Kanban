@@ -9,7 +9,8 @@ The modules for which the kanban board will be displayed are configured in the a
 You can also select the field by which the columns in the board will be built.
 
 link to github: https://github.com/Still-not-found/suitecrm/
-Installation
+
+## Installation
 Before installation, you must make a backup copy of the system files!
 
 To install, you need to download the latest version of the plugin from the link https://github.com/Still-not-found/suitecrm/
@@ -22,7 +23,7 @@ Click the install button.
 
 After installation, you need to make a Quick Repair and Rebuild (Admin → Repair ->Quick Repair and Rebuild)
 
-Setting
+## Setting
 After installing the package, go to Administration → Configuring modules for which the kanban board is available
 
 On the settings page, select the modules for which the ability to display as a kanban board will be available.
