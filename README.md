@@ -9,7 +9,7 @@ The modules for which the kanban board will be displayed are configured in the a
 You can also select the field by which the columns in the board will be built.
 
 link to github: https://github.com/Still-not-found/suitecrm/
-Installation
+# Installation
 Before installation, you must make a backup copy of the system files!
 
 To install, you need to download the latest version of the plugin from the link https://github.com/Still-not-found/suitecrm/
@@ -22,7 +22,7 @@ Click the install button.
 
 After installation, you need to make a Quick Repair and Rebuild (Admin → Repair ->Quick Repair and Rebuild)
 
-Setting
+# Setting
 After installing the package, go to Administration → Configuring modules for which the kanban board is available
 
 On the settings page, select the modules for which the ability to display as a kanban board will be available.
@@ -32,7 +32,7 @@ The first time you go to the Kanban board page, you go to the kanban board setti
 Setting up the field for selecting columns on the Kanban board
 To select a field from the values of which columns will be formed on the Kanban board, specify this field in the Select field from the stages field (only fields of the enumeration type are displayed)
 
-Customizing columns
+# Customizing columns
 Configuring speakers for a kanban board
 
 To set the desired column sequence, set the sequence you need from top to bottom (will be converted to a sequence from left to right)
@@ -42,13 +42,13 @@ check the display colum checkbox to display the column on kanbandosk
 
 check the display opportunity checkbox to display the record in the column (it is not recommended to check completed with success and canceled in the final columns)
 
-Customizing header fields
+## Customizing header fields
 Setting the fields that will be displayed in the card lining, if there are several fields, then they will be separated by the symbol -
 
-Field for sorting cards on the board
+## Field for sorting cards on the board
 Setting up the field by which sorting will be performed (Sorting will be reversed) in the kanban column of the board.
 
 
-Board column height
+## Board column height
 Specifies the height of the board on the page
 
