@@ -53,3 +53,9 @@ Setting up the field by which sorting will be performed (Sorting will be reverse
 ### Board column height
 Specifies the height of the board on the page
 
+
+Note: Incase of any doubts you can comment here and if you need any guidance and assistance in suitecrm , nextcloud installations and configurations you can ask and please do check my nextcloud and suitecrm , openproject , jitsi  guides if incase you need.
+
+
+           Thank you.........
+
