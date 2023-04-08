@@ -46,7 +46,7 @@ check the display opportunity checkbox to display the record in the column (it i
 ### Customizing header fields
 Setting the fields that will be displayed in the card lining, if there are several fields, then they will be separated by the symbol -
 
-###nField for sorting cards on the board
+### Field for sorting cards on the board
 Setting up the field by which sorting will be performed (Sorting will be reversed) in the kanban column of the board.
 
 
